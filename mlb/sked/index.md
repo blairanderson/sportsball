@@ -2,6 +2,11 @@
 title: "Schedule File Legend"
 ---
 
+>The information used here was obtained free of
+>charge from and is copyrighted by Retrosheet.  Interested
+>parties may contact Retrosheet at 20 Sunset Rd.,
+>Newark, DE 19711.
+
 ```
 Field(s)  Meaning
     1     Date in the form "yyyymmdd"
@@ -161,8 +166,3 @@ Field(s)  Meaning
 - [1879](/mlb/sked/1879sked.csv)
 - [1878](/mlb/sked/1878sked.csv)
 - [1877](/mlb/sked/1877sked.csv)
-
->The information used here was obtained free of
->charge from and is copyrighted by Retrosheet.  Interested
->parties may contact Retrosheet at 20 Sunset Rd.,
->Newark, DE 19711.
