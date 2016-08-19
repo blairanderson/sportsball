@@ -1,4 +1,5 @@
-date_in_the_form,number_of_game,day_of_week,visiting_team,visiting_league,visiting_season_game_number,home_team,home_league,home_season_game_number,time_of_day,postponement_cancellation,date_of_makeup19480419,0,Mon,PIT,NL,1,CIN,NL,1,d,,
+date_in_the_form,number_of_game,day_of_week,visiting_team,visiting_league,visiting_season_game_number,home_team,home_league,home_season_game_number,time_of_day,postponement_cancellation,date_of_makeup
+19480419,0,Mon,PIT,NL,1,CIN,NL,1,d,,
 19480419,1,Mon,PHA,AL,1,BOS,AL,1,d,,
 19480419,2,Mon,PHA,AL,2,BOS,AL,2,d,,
 19480419,0,Mon,NYA,AL,1,WS1,AL,1,d,,

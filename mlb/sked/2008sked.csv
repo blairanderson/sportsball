@@ -1,4 +1,5 @@
-date_in_the_form,number_of_game,day_of_week,visiting_team,visiting_league,visiting_season_game_number,home_team,home_league,home_season_game_number,time_of_day,postponement_cancellation,date_of_makeup20080325,0,Tue,BOS,AL,1,OAK,AL,1,n,,
+date_in_the_form,number_of_game,day_of_week,visiting_team,visiting_league,visiting_season_game_number,home_team,home_league,home_season_game_number,time_of_day,postponement_cancellation,date_of_makeup
+20080325,0,Tue,BOS,AL,1,OAK,AL,1,n,,
 20080326,0,Wed,BOS,AL,2,OAK,AL,2,n,,
 20080330,0,Sun,ATL,NL,1,WAS,NL,1,n,,
 20080331,0,Mon,KCA,AL,1,DET,AL,1,d,,

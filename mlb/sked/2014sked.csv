@@ -1,4 +1,5 @@
-date_in_the_form,number_of_game,day_of_week,visiting_team,visiting_league,visiting_season_game_number,home_team,home_league,home_season_game_number,time_of_day,postponement_cancellation,date_of_makeup20140322,0,Sat,LAN,NL,1,ARI,NL,1,n,,
+date_in_the_form,number_of_game,day_of_week,visiting_team,visiting_league,visiting_season_game_number,home_team,home_league,home_season_game_number,time_of_day,postponement_cancellation,date_of_makeup
+20140322,0,Sat,LAN,NL,1,ARI,NL,1,n,,
 20140323,0,Sun,LAN,NL,2,ARI,NL,2,d,,
 20140330,0,Sun,LAN,NL,3,SDN,NL,1,n,,
 20140331,0,Mon,SFN,NL,1,ARI,NL,3,n,,

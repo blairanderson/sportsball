@@ -1,4 +1,5 @@
-date_in_the_form,number_of_game,day_of_week,visiting_team,visiting_league,visiting_season_game_number,home_team,home_league,home_season_game_number,time_of_day,postponement_cancellation,date_of_makeup19720405,0,Wed,HOU,NL,1,CIN,NL,1,d,,
+date_in_the_form,number_of_game,day_of_week,visiting_team,visiting_league,visiting_season_game_number,home_team,home_league,home_season_game_number,time_of_day,postponement_cancellation,date_of_makeup
+19720405,0,Wed,HOU,NL,1,CIN,NL,1,d,,
 19720406,0,Thu,NYN,NL,1,PIT,NL,1,d,,
 19720406,0,Thu,HOU,NL,2,ATL,NL,1,n,,
 19720406,0,Thu,SDN,NL,1,SFN,NL,1,d,,
